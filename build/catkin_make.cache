@@ -1,0 +1,2 @@
+ros_snake_robot/gazebo_robot:ros_snake_robot/robot_control:ros_snake_robot/robot_description
+-DCATKIN_DEVEL_PREFIX=/home/yrza/robot_snake/devel -DCMAKE_INSTALL_PREFIX=/home/yrza/robot_snake/install -G Unix Makefiles
